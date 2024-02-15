@@ -4,12 +4,17 @@
         {
             "src": "./index.py",
             "use": "@vercel/python"
-        }
+        }  
     ],
     "routes": [
         {
             "src": "/(.*)",
             "dest": "/"
-        }
+
+            
+        }    
     ]
 }
+
+          {
+              "/opt/render/project/src/bot.py"
