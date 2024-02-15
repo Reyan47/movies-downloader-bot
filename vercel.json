@@ -16,5 +16,6 @@
     ]
 }
 
-          {
-              "/opt/render/project/src/bot.py"
+ {
+   "src": "./opt/render/project/src/bot.py"
+          
